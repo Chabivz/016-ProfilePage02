@@ -1,0 +1,159 @@
+* body {
+
+  background-color: #131e21;
+  color: #dcfaf8;
+  margin: auto;
+}
+
+nav {
+  padding-top: 10px;
+}
+footer {
+  position: relative; 
+  margin-top: -150px;
+  height: 150px;
+  clear: both;
+  padding-top: 20px;
+}
+
+.spacers {
+  padding-top: 250px;
+}
+header {
+  
+  padding-top: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding: 0px 50px ;
+  
+}
+
+ul li a {
+  color: #ccd6f6; 
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #64ffda; 
+  text-decoration: none;
+}
+
+.logo {
+  margin-right: 50%;
+  padding-left: 50px;
+  text-align: left;
+}
+.logo img {
+  height: 50px;
+  width: 50px;
+}
+
+#dots {
+  padding-top: 50px;
+}
+
+.top-page {
+  height: 900px;
+}
+
+.center-page {
+  margin: auto;
+  width: 35%;
+  background-color:  #131e21;
+  padding: 10px;
+}
+
+#work {
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+#aboutMe {
+  font-size: 50px;
+  color: #64ffda; 
+  margin: auto;
+  width: 35%;
+  background-color:  #131e21;
+  padding: 10px;
+  padding-top: 250px;
+  padding-bottom: 25px;
+}
+
+#contact {
+  font-size: 50px;
+  color: #64ffda; 
+  margin: auto;
+  width: 35%;
+  background-color:  #131e21;
+  padding: 10px;
+  padding-top: 250px;
+  padding-bottom: 25px;
+
+}
+
+#work {
+  font-size: 50px;
+  color: #64ffda; 
+  margin: auto;
+  width: 35%;
+  background-color:  #131e21;
+  padding: 10px;
+  padding-top: 250px;
+  padding-bottom: 25px;
+}
+
+.get-in-touch {
+  width: 400px;
+  height: auto;
+}
+
+.say-hello {
+ color: #64ffda; 
+ text-decoration: none;
+ padding-top: 25px;
+}
+
+.say-hello:hover {
+  color: #64ffda; 
+  text-decoration: none;
+ 
+}
+
+.say-hello:visited {
+  text-decoration: none;
+  color: #64ffda; 
+}
+
+.say-hello:active {
+  color: #64ffda; 
+  text-decoration: none;
+  border-style: dashed;
+  border-color: #64ffda;
+}
+
+.name {
+  font-size: 75px;
+  color: #64ffda; 
+  font-family: 'Lexend', sans-serif;
+}
+
+
+.introduction {
+  padding-top: 250px;
+}
+
+.card {
+  background-color: #233554;
+}
+
+.link-icons img {
+    width: 70px;
+    height: 70px;
+    padding-top:25px;
+    padding-left: 25px;
+}
